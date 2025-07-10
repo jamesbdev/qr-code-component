@@ -21,8 +21,6 @@ p {
 h2, p {
     text-align: center;
     margin: 0;
- 
-    
 }
 
 .qr-container {
@@ -49,7 +47,6 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
- 
     height: 100vh;
 
 }
