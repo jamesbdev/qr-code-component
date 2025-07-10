@@ -2,10 +2,10 @@ body {
     font-family: "Outfit", Helvetica, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: rgb(207, 227, 243);
+    background-color: hsl(212, 45%, 89%);
 }
 
-h2 {
+h1 {
     font-weight: 700;
     font-size: 20px;
     color: hsl(218, 44%, 22%);
@@ -18,9 +18,10 @@ p {
     padding-bottom: 20px;
 }
 
-h2, p {
+h1, p {
     text-align: center;
     margin: 0;
+    width: 90%;
 }
 
 .qr-container {
@@ -28,13 +29,14 @@ h2, p {
     flex-direction: column;
     width: 80%;
     margin: 0 auto;
-    border-radius: 10px;
+    border-radius: 20px;
     background-color: white;
     padding: 1rem;
     justify-content: center;
     align-items: center;
     gap: 20px;
     max-width: 300px;
+    box-shadow: 5px 5px 15px rgb(147, 147, 147);
 }
 
 .qr-container img {
