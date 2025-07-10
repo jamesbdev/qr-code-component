@@ -40,7 +40,7 @@ h2, p {
 .qr-container img {
     border-radius: 10px;
     height: 70%;
-    width: 70%;
+    width: 100%;
 }
 
 main {
