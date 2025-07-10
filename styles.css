@@ -56,3 +56,14 @@ main {
         width: 300px;
     }
 }
+
+footer {
+    text-align: center;
+    color: white;
+    padding-bottom: 20px;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
