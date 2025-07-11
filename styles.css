@@ -41,7 +41,7 @@ h1, p {
 
 .qr-container img {
     border-radius: 10px;
-    height: 70%;
+    height: auto;
     width: 100%;
 }
 
